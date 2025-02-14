@@ -1,3 +1,3 @@
 {
-"data_admot_config":"aHR0cHM6Ly90YW5hbmltZS5zaXRl"
+"data_admot_config":"123456"
 }
