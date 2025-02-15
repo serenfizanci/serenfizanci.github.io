@@ -1,3 +1,4 @@
 {
-"data_admot_config":"123456"
+"splash_home": 1000,
+"data_admot_config":"aHR0cHM6Ly9hc2hvZWsub25saW5l"
 }
